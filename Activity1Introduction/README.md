@@ -47,6 +47,12 @@ The program keeps running until the user decides to exit by typing `exit`. It al
 
 ---
 
+## 📄 **Source Code**
+You can view the full source code for the Anagram Checker program here:  
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/AnagramChecker/Program.cs)
+
+---
+
 ## 🛠️ **How the Program Works**
 The program follows three key steps to check if two words are anagrams:
 1. Checks if the lengths of both words are equal.
