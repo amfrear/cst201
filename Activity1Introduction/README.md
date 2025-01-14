@@ -1,4 +1,8 @@
 
+# Activity 1 Introduction
+
+---
+
 # 📝 Cover Sheet
 **Student Name:** Alex Frear  
 **Date:** 01/14/2025  
@@ -9,10 +13,14 @@
 ---
 
 ## 🎥 **Screencast Video**
-Watch the screencast video demonstration of the Anagram Checker program here:  
-🔗 [Loom Video Link](#)  
-
-*Note: Replace the `#` with your actual Loom video URL after recording your video.*
+<div>
+    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
+      <p>CST 201 - Activity 1 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8228966772994e689cddbcae143b74be-7c95a586b31135c1-full-play.gif">
+    </a>
+  </div>
 
 ---
 
