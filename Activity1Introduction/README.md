@@ -26,7 +26,7 @@
 # 📋 Anagram Checker Program
 
 ## 📄 **Description**
-This project is an Anagram Checker built as part of the CST-201 Algorithms and Data Structures course. The program takes two words as input from the user and checks if they are anagrams. An anagram is a word formed by rearranging the letters of another word (e.g., "listen" and "silent").
+This project is an Anagram Checker built as part of the CST-201 Algorithms and Data Structures course. The program takes two words as input from the user and checks if they are anagrams. An anagram is a word formed by rearranging the letters of another word (e.g., "eat" and "tea").
 
 The program keeps running until the user decides to exit by typing `exit`. It also handles different test cases to demonstrate the outputs for both positive and negative scenarios.
 
