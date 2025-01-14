@@ -1,6 +1,3 @@
-# Activity 1 Introduction
-
----
 
 # 📝 Cover Sheet
 **Student Name:** Alex Frear  
@@ -12,23 +9,33 @@
 ---
 
 ## 🎥 **Screencast Video**
-<div>
-    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
-      <p>CST 201 - Activity 1 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8228966772994e689cddbcae143b74be-7c95a586b31135c1-full-play.gif">
-    </a>
-  </div>
+Watch the screencast video demonstration of the Anagram Checker program here:  
+🔗 [Loom Video Link](#)  
+
+*Note: Replace the `#` with your actual Loom video URL after recording your video.*
 
 ---
 
 # 📋 Anagram Checker Program
 
 ## 📄 **Description**
-This project is an Anagram Checker built as part of the CST-201 Algorithms and Data Structures course. The program takes two words as input from the user and checks if they are anagrams. An anagram is a word formed by rearranging the letters of another word (e.g., "eat" and "tea").
+This project is an Anagram Checker built as part of the CST-201 Algorithms and Data Structures course. The program takes two words as input from the user and checks if they are anagrams. An anagram is a word formed by rearranging the letters of another word (e.g., "listen" and "silent").
 
 The program keeps running until the user decides to exit by typing `exit`. It also handles different test cases to demonstrate the outputs for both positive and negative scenarios.
+
+---
+
+## 📄 **Pseudocode**
+```
+1. Input two words from the user: word1 and word2.
+2. Check if the lengths of word1 and word2 are equal.
+   - If not equal, return false (not anagrams).
+3. Convert both words to lowercase (to make it case-insensitive).
+4. Sort the characters of both words.
+5. Compare the sorted versions of word1 and word2.
+   - If they are equal, return true (anagrams).
+   - Otherwise, return false.
+```
 
 ---
 
@@ -53,21 +60,21 @@ The program follows three key steps to check if two words are anagrams:
 ## 📸 **Screenshots**
 
 ### ✅ **Positive Case:**
-<img src="Activity1Screenshots/AnagramTrue.png" width="700"/>
+<img src="./AnagramTrue.png" width="700"/>
 
 *This screenshot shows the program identifying that the words "eat" and "tea" are anagrams, returning `True`.*
 
 ---
 
 ### ❌ **Negative Case:**
-<img src="Activity1Screenshots/AnagramFalse.png" width="700"/>
+<img src="./AnagramFalse.png" width="700"/>
 
 *This screenshot shows the program identifying that the words "hello" and "world" are not anagrams, returning `False`.*
 
 ---
 
 ### 🛑 **Exit the Program:**
-<img src="Activity1Screenshots/AnagramExit.png" width="700"/>
+<img src="./AnagramExit.png" width="700"/>
 
 *This screenshot shows the program allowing the user to exit by typing "exit." The console then displays a message confirming that the program has ended.*
 
