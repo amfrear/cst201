@@ -68,21 +68,21 @@ The program follows three key steps to check if two words are anagrams:
 ## 📸 **Screenshots**
 
 ### ✅ **Positive Case:**
-<img src="./AnagramTrue.png" width="700"/>
+<img src="Activity1Screenshots/AnagramTrue.png" width="700"/>
 
 *This screenshot shows the program identifying that the words "eat" and "tea" are anagrams, returning `True`.*
 
 ---
 
 ### ❌ **Negative Case:**
-<img src="./AnagramFalse.png" width="700"/>
+<img src="Activity1Screenshots/AnagramFalse.png" width="700"/>
 
 *This screenshot shows the program identifying that the words "hello" and "world" are not anagrams, returning `False`.*
 
 ---
 
 ### 🛑 **Exit the Program:**
-<img src="./AnagramExit.png" width="700"/>
+<img src="Activity1Screenshots/AnagramExit.png" width="700"/>
 
 *This screenshot shows the program allowing the user to exit by typing "exit." The console then displays a message confirming that the program has ended.*
 
