@@ -12,10 +12,14 @@
 ---
 
 ## 🎥 **Screencast Video**
-Watch the screencast video demonstration of the Anagram Checker program here:  
-🔗 [Loom Video Link](#)  
-
-*Note: Replace the `#` with your actual Loom video URL after recording your video.*
+<div>
+    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
+      <p>CST 201 - Activity 1 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/8228966772994e689cddbcae143b74be">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8228966772994e689cddbcae143b74be-7c95a586b31135c1-full-play.gif">
+    </a>
+  </div>
 
 ---
 
@@ -56,14 +60,14 @@ The program follows three key steps to check if two words are anagrams:
 ---
 
 ### ❌ **Negative Case:**
-<img src="./AnagramFalse.png" width="700"/>
+<img src="Activity1Screenshots/AnagramFalse.png" width="700"/>
 
 *This screenshot shows the program identifying that the words "hello" and "world" are not anagrams, returning `False`.*
 
 ---
 
 ### 🛑 **Exit the Program:**
-<img src="./AnagramExit.png" width="700"/>
+<img src="Activity1Screenshots/AnagramExit.png" width="700"/>
 
 *This screenshot shows the program allowing the user to exit by typing "exit." The console then displays a message confirming that the program has ended.*
 
