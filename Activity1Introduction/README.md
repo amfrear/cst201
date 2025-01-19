@@ -49,7 +49,7 @@ The program keeps running until the user decides to exit by typing `exit`. It al
 
 ## 📄 **Source Code**
 You can view the full source code for the Anagram Checker program here:  
-🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/AnagramChecker/Program.cs)
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity1Introduction/AnagramChecker/Program.cs)
 
 ---
 
