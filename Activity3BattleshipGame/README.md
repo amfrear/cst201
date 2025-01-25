@@ -53,7 +53,7 @@ The computer's AI enhances gameplay by dynamically transitioning between states:
 
 ## 📄 **Source Code**
 You can view the full source code for the Battleship game program here:  
-🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity3BattleshipGame/Program.cs)
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity3BattleshipGame/BattleshipGame/Program.cs)
 
 ---
 
