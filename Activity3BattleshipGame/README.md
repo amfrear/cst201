@@ -19,7 +19,7 @@
     <a href="https://www.loom.com/share/YOUR_VIDEO_LINK">
       <img style="max-width:300px;" src="YOUR_VIDEO_THUMBNAIL_LINK">
     </a>
-  </div>
+</div>
 
 ---
 
@@ -28,7 +28,7 @@
 ## 📄 **Description**
 This project is a console-based implementation of the Battleship game with an AI opponent. The game includes:
 - **Player Ship Placement**: Players manually place their ships on the grid.
-- **Turn-Based Gameplay**: Players and the computer take turns attacking.
+- **Turn-Based Gameplay**: Players and the computer take turns attacking. **The player gets to go again after scoring a hit and continues attacking until they miss.**
 - **AI Mechanics**: The computer uses a state-based AI to "hunt" and "target" ships once it gets a hit.
 - **Win/Loss Conditions**: The game ends when either the player's or computer's fleet is completely sunk.
 
@@ -44,6 +44,8 @@ The computer's AI enhances gameplay by dynamically transitioning between states:
 3. Computer places its ships randomly.
 4. Alternate turns between the player and computer:
    a. Player attacks the computer’s board.
+      - If the player scores a hit, they attack again.
+      - If the player misses, the turn switches to the computer.
    b. Computer attacks the player’s board using AI mechanics.
 5. Repeat until one player's ships are all sunk.
 6. Declare the winner and exit.
@@ -62,7 +64,7 @@ You can view the full source code for the Battleship game program here:
 2. The player places their ships manually, selecting coordinates and orientation.
 3. The computer places its ships randomly using a `Random` generator.
 4. Gameplay alternates between the player and the computer:
-   - The **player** selects attack coordinates, and the result (hit/miss) is displayed.
+   - The **player** selects attack coordinates, and the result (hit/miss) is displayed. The player continues attacking after scoring a hit until they miss.
    - The **computer** uses AI to attack:
      - **Hunt Mode**: Randomly selects an untried cell.
      - **Target Mode**: Targets cells around a hit until a ship's orientation is determined.
