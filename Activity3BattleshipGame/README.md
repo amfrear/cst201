@@ -1,10 +1,10 @@
-# Activity 3: Battleship Game with AI
+# Activity 3: Battleship Game
 
 ---
 
 # 📝 Cover Sheet  
 **Student Name:** Alex Frear  
-**Date:** 01/24/2025  
+**Date:** 01/27/2025  
 **Program:** College of Science, Engineering, and Technology, Grand Canyon University  
 **Course:** CST-201 Algorithms and Data Structures  
 **Instructor:** Mohamed Mneimneh  
@@ -12,14 +12,7 @@
 ---
 
 ## 🎥 **Screencast Video**
-<div>
-    <a href="https://www.loom.com/share/YOUR_VIDEO_LINK">
-      <p>Activity 3: Battleship Game with AI - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/YOUR_VIDEO_LINK">
-      <img style="max-width:300px;" src="YOUR_VIDEO_THUMBNAIL_LINK">
-    </a>
-</div>
+
 
 ---
 
@@ -28,7 +21,7 @@
 ## 📄 **Description**
 This project is a console-based implementation of the Battleship game with an AI opponent. The game includes:
 - **Player Ship Placement**: Players manually place their ships on the grid.
-- **Turn-Based Gameplay**: Players and the computer take turns attacking. **The player gets to go again after scoring a hit and continues attacking until they miss.**
+- **Turn-Based Gameplay**: Players and the computer take turns attacking. The player gets to go again after scoring a hit and continues attacking until they miss.
 - **AI Mechanics**: The computer uses a state-based AI to "hunt" and "target" ships once it gets a hit.
 - **Win/Loss Conditions**: The game ends when either the player's or computer's fleet is completely sunk.
 
@@ -47,6 +40,8 @@ The computer's AI enhances gameplay by dynamically transitioning between states:
       - If the player scores a hit, they attack again.
       - If the player misses, the turn switches to the computer.
    b. Computer attacks the player’s board using AI mechanics.
+      - If the player scores a hit, they attack again.
+      - If the player misses, the turn switches to the computer.
 5. Repeat until one player's ships are all sunk.
 6. Declare the winner and exit.
 ```
