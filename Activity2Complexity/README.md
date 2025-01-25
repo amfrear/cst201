@@ -5,7 +5,7 @@
 
 # 📝 Cover Sheet  
 **Student Name:** Alex Frear  
-**Date:** 01/20/2025  
+**Date:** 01/24/2025  
 **Program:** College of Science, Engineering, and Technology, Grand Canyon University  
 **Course:** CST-201 Algorithms and Data Structures  
 **Instructor:** Mohamed Mneimneh  
