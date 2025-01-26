@@ -11,8 +11,24 @@
 
 ---
 
-## 🎥 **Screencast Video**
+## 🎥 **Screencast Videos**
+<div>
+    <a href="https://www.loom.com/share/b1187a3141a348548fa762e38e753c69">
+      <p>CST201 -Battleship Game Code Overview - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b1187a3141a348548fa762e38e753c69">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1187a3141a348548fa762e38e753c69-57e494b89e4e8f31-full-play.gif">
+    </a>
+  </div>
 
+<div>
+    <a href="https://www.loom.com/share/d0324e38d6024df29444d10105142c17">
+      <p>CST201 - Battleship Game Running - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d0324e38d6024df29444d10105142c17">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d0324e38d6024df29444d10105142c17-1fb09d6f5aaf9daa-full-play.gif">
+    </a>
+  </div>
 
 ---
 
