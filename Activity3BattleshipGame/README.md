@@ -40,8 +40,8 @@ The computer's AI enhances gameplay by dynamically transitioning between states:
       - If the player scores a hit, they attack again.
       - If the player misses, the turn switches to the computer.
    b. Computer attacks the player’s board using AI mechanics.
-      - If the player scores a hit, they attack again.
-      - If the player misses, the turn switches to the computer.
+      - If the computer scores a hit, it attacks again.
+      - If the computer misses, the turn switches to the player.
 5. Repeat until one player's ships are all sunk.
 6. Declare the winner and exit.
 ```
