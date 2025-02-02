@@ -13,13 +13,13 @@
 
 ## 🎥 **Screencast Videos**
 <div>
-    <a href="https://www.loom.com/share/EXAMPLE_VIDEO_LINK">
-      <p>CST201 - Sorting Algorithm Comparison - Watch Video</p>
+    <a href="https://www.loom.com/share/901a6dbe01a44eeaae1d8220f2c9491a">
+      <p>CST201 - Activity 4 Compare Sorting - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/EXAMPLE_VIDEO_LINK">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/EXAMPLE_VIDEO_LINK-57e494b89e4e8f31-full-play.gif">
+    <a href="https://www.loom.com/share/901a6dbe01a44eeaae1d8220f2c9491a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/901a6dbe01a44eeaae1d8220f2c9491a-8830596ba8cfeb34-full-play.gif">
     </a>
-</div>
+  </div>
 
 ---
 
