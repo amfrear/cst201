@@ -1,10 +1,10 @@
-# Activity 4: Sorting Algorithm Comparison
+# Activity 4: Compare Sorting
 
 ---
 
 # 📝 Cover Sheet  
 **Student Name:** Alex Frear  
-**Date:** 02/02/2025  
+**Date:** 02/03/2025  
 **Program:** College of Science, Engineering, and Technology, Grand Canyon University  
 **Course:** CST-201 Algorithms and Data Structures  
 **Instructor:** Mohamed Mneimneh  
