@@ -55,7 +55,7 @@ The program uses **Depth-First Search (DFS)** to explore paths, detect cycles, a
 
 ## 📄 **Source Code**
 You can view the full source code for this program here:  
-🔗 [GraphCycleFinder.cs](YOUR_GITHUB_REPOSITORY_LINK_HERE)  
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity5GraphAlogorithms/GraphCycleFinder/Program.cs)  
 
 ---
 
