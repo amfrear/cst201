@@ -1,4 +1,4 @@
-# Activity 5: Graph Cycle Finder
+# Activity 5: Graph Algorithms
 
 ---
 
