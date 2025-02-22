@@ -1,10 +1,10 @@
-# Activity: Knapsack Problem
+# Activity 6: Greedy Technique
 
 ---
 
 # 📝 Cover Sheet  
 **Student Name:** Alex Frear  
-**Date:** 02/17/2025  
+**Date:** 02/22/2025  
 **Program:** College of Science, Engineering, and Technology, Grand Canyon University  
 **Course:** CST-201 Algorithms and Data Structures  
 **Instructor:** Mohamed Mneimneh  
@@ -67,8 +67,8 @@ The code demonstrates how to:
 ---
 
 ## 📄 **Source Code**
-- **C# Implementation**: [Program.cs](https://github.com/yourusername/yourrepository/blob/main/Program.cs)  
-- **(Optional) Additional Files**: If you have supporting classes or documentation, list them here.
+You can view the full source code for this program here:  
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity6GreedyTechnique/KnapsackExample/Program.cs)  
 
 ---
 
@@ -99,26 +99,35 @@ The code demonstrates how to:
 
 ---
 
+## 💻 **How to Run the Program**
+### **Running the Program in Visual Studio**
+1. Clone or download the project repository.
+2. Open **Visual Studio** and load the solution (`.sln` file).
+3. Press **F5** to build and run the project.
+4. The program will execute and display:
+   - Maximum value computed by each method.
+   - Items selected in the optimal solution.
+   - Step count for complexity comparison.
+
+---
+
 ## 📸 **Screenshot of Program Output**
-Below is an example console output demonstrating **DP vs. Greedy** and **Bounded** results:
-
-![Knapsack Output Screenshot](./screenshots/knapsack-output.png "Knapsack Program Output")
-
-*(Replace the above path and alt-text with your actual screenshot path.)*
+### ✅ **Console Output**
+<img src="KnapsackScreenshot.png" width="700"/> 
 
 ---
 
 ## 📚 **Complexity Analysis**
 
-### **0/1 Dynamic Programming**
+### 🔑 **0/1 Dynamic Programming**
 - **Time Complexity:** \(O(n \times \text{capacity})\).  
 - **Space Complexity:** \(O(n \times \text{capacity})\) for the 2D table (though can be optimized to 1D).
 
-### **Greedy Approach (0/1)**
+### 🔑 **Greedy Approach (0/1)**
 - **Time Complexity:** \(O(n \log n)\) due to sorting, plus \(O(n)\) for item selection.  
 - **Space Complexity:** \(O(n)\) for storing item data.
 
-### **Bounded Knapsack (DP)**
+### 🔑 **Bounded Knapsack (DP)**
 - **Time Complexity:** \(O\big(\sum (quantities[i]) \times \text{capacity}\big)\).  
 - **Space Complexity:** \(O(\text{capacity})\) if using a 1D DP array.
 
