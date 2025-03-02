@@ -56,7 +56,7 @@ A **greedy coloring algorithm** assigns timeslots to lectures by minimizing conf
 
 ## 📄 **Source Code**
 You can view the full source code for this program here:  
-🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity7LectureScheduling/Program.cs)  
+🔗 [Program.cs](https://github.com/amfrear/cst201/blob/main/Activity7NpCompleteProblems/LectureScheduling/Program.cs)  
 
 ---
 
