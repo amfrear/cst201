@@ -13,13 +13,13 @@
 
 ## 🎥 **Screencast Video**
 <div>
-    <a href="YOUR_LOOM_VIDEO_LINK_HERE">
-      <p>CST201 - Activity 7 Lecture Scheduling - Watch Video</p>
+    <a href="https://www.loom.com/share/aff346c2c58349f4a76d08ed1093d1b5">
+      <p>CST201 - Activity7 - NP Complete Problems - Watch Video</p>
     </a>
-    <a href="YOUR_LOOM_VIDEO_LINK_HERE">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/YOUR_LOOM_VIDEO_ID_HERE-full-play.gif">
+    <a href="https://www.loom.com/share/aff346c2c58349f4a76d08ed1093d1b5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aff346c2c58349f4a76d08ed1093d1b5-318dab3bcf855dd4-full-play.gif">
     </a>
-</div>
+  </div>  
 
 ---
 
